@@ -1,0 +1,14 @@
+E:\C#\Multithreading\Join\bin\Debug\net6.0\Join.exe
+E:\C#\Multithreading\Join\bin\Debug\net6.0\Join.deps.json
+E:\C#\Multithreading\Join\bin\Debug\net6.0\Join.runtimeconfig.json
+E:\C#\Multithreading\Join\bin\Debug\net6.0\Join.dll
+E:\C#\Multithreading\Join\bin\Debug\net6.0\Join.pdb
+E:\C#\Multithreading\Join\obj\Debug\net6.0\Join.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Multithreading\Join\obj\Debug\net6.0\Join.AssemblyInfoInputs.cache
+E:\C#\Multithreading\Join\obj\Debug\net6.0\Join.AssemblyInfo.cs
+E:\C#\Multithreading\Join\obj\Debug\net6.0\Join.csproj.CoreCompileInputs.cache
+E:\C#\Multithreading\Join\obj\Debug\net6.0\Join.dll
+E:\C#\Multithreading\Join\obj\Debug\net6.0\refint\Join.dll
+E:\C#\Multithreading\Join\obj\Debug\net6.0\Join.pdb
+E:\C#\Multithreading\Join\obj\Debug\net6.0\Join.genruntimeconfig.cache
+E:\C#\Multithreading\Join\obj\Debug\net6.0\ref\Join.dll

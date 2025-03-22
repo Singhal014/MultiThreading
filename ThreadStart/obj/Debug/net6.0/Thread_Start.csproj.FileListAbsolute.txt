@@ -1,0 +1,14 @@
+E:\C#\Multithreading\ThreadStart\bin\Debug\net6.0\Thread_Start.exe
+E:\C#\Multithreading\ThreadStart\bin\Debug\net6.0\Thread_Start.deps.json
+E:\C#\Multithreading\ThreadStart\bin\Debug\net6.0\Thread_Start.runtimeconfig.json
+E:\C#\Multithreading\ThreadStart\bin\Debug\net6.0\Thread_Start.dll
+E:\C#\Multithreading\ThreadStart\bin\Debug\net6.0\Thread_Start.pdb
+E:\C#\Multithreading\ThreadStart\obj\Debug\net6.0\Thread_Start.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Multithreading\ThreadStart\obj\Debug\net6.0\Thread_Start.AssemblyInfoInputs.cache
+E:\C#\Multithreading\ThreadStart\obj\Debug\net6.0\Thread_Start.AssemblyInfo.cs
+E:\C#\Multithreading\ThreadStart\obj\Debug\net6.0\Thread_Start.csproj.CoreCompileInputs.cache
+E:\C#\Multithreading\ThreadStart\obj\Debug\net6.0\Thread_Start.dll
+E:\C#\Multithreading\ThreadStart\obj\Debug\net6.0\refint\Thread_Start.dll
+E:\C#\Multithreading\ThreadStart\obj\Debug\net6.0\Thread_Start.pdb
+E:\C#\Multithreading\ThreadStart\obj\Debug\net6.0\Thread_Start.genruntimeconfig.cache
+E:\C#\Multithreading\ThreadStart\obj\Debug\net6.0\ref\Thread_Start.dll

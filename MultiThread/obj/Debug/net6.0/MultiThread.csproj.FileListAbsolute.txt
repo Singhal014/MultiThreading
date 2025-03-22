@@ -1,0 +1,14 @@
+E:\C#\Multithreading\MultiThread\bin\Debug\net6.0\MultiThread.exe
+E:\C#\Multithreading\MultiThread\bin\Debug\net6.0\MultiThread.deps.json
+E:\C#\Multithreading\MultiThread\bin\Debug\net6.0\MultiThread.runtimeconfig.json
+E:\C#\Multithreading\MultiThread\bin\Debug\net6.0\MultiThread.dll
+E:\C#\Multithreading\MultiThread\bin\Debug\net6.0\MultiThread.pdb
+E:\C#\Multithreading\MultiThread\obj\Debug\net6.0\MultiThread.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Multithreading\MultiThread\obj\Debug\net6.0\MultiThread.AssemblyInfoInputs.cache
+E:\C#\Multithreading\MultiThread\obj\Debug\net6.0\MultiThread.AssemblyInfo.cs
+E:\C#\Multithreading\MultiThread\obj\Debug\net6.0\MultiThread.csproj.CoreCompileInputs.cache
+E:\C#\Multithreading\MultiThread\obj\Debug\net6.0\MultiThread.dll
+E:\C#\Multithreading\MultiThread\obj\Debug\net6.0\refint\MultiThread.dll
+E:\C#\Multithreading\MultiThread\obj\Debug\net6.0\MultiThread.pdb
+E:\C#\Multithreading\MultiThread\obj\Debug\net6.0\MultiThread.genruntimeconfig.cache
+E:\C#\Multithreading\MultiThread\obj\Debug\net6.0\ref\MultiThread.dll

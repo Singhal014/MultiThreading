@@ -1,0 +1,14 @@
+E:\C#\Multithreading\Multithreading\bin\Debug\net6.0\Multithreading.exe
+E:\C#\Multithreading\Multithreading\bin\Debug\net6.0\Multithreading.deps.json
+E:\C#\Multithreading\Multithreading\bin\Debug\net6.0\Multithreading.runtimeconfig.json
+E:\C#\Multithreading\Multithreading\bin\Debug\net6.0\Multithreading.dll
+E:\C#\Multithreading\Multithreading\bin\Debug\net6.0\Multithreading.pdb
+E:\C#\Multithreading\Multithreading\obj\Debug\net6.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Multithreading\Multithreading\obj\Debug\net6.0\Multithreading.AssemblyInfoInputs.cache
+E:\C#\Multithreading\Multithreading\obj\Debug\net6.0\Multithreading.AssemblyInfo.cs
+E:\C#\Multithreading\Multithreading\obj\Debug\net6.0\Multithreading.csproj.CoreCompileInputs.cache
+E:\C#\Multithreading\Multithreading\obj\Debug\net6.0\Multithreading.dll
+E:\C#\Multithreading\Multithreading\obj\Debug\net6.0\refint\Multithreading.dll
+E:\C#\Multithreading\Multithreading\obj\Debug\net6.0\Multithreading.pdb
+E:\C#\Multithreading\Multithreading\obj\Debug\net6.0\Multithreading.genruntimeconfig.cache
+E:\C#\Multithreading\Multithreading\obj\Debug\net6.0\ref\Multithreading.dll
