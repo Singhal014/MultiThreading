@@ -1,0 +1,15 @@
+E:\C#\Multithreading\Thread_Priority\bin\Debug\net6.0\Thread_Priority.exe
+E:\C#\Multithreading\Thread_Priority\bin\Debug\net6.0\Thread_Priority.deps.json
+E:\C#\Multithreading\Thread_Priority\bin\Debug\net6.0\Thread_Priority.runtimeconfig.json
+E:\C#\Multithreading\Thread_Priority\bin\Debug\net6.0\Thread_Priority.dll
+E:\C#\Multithreading\Thread_Priority\bin\Debug\net6.0\Thread_Priority.pdb
+E:\C#\Multithreading\Thread_Priority\obj\Debug\net6.0\Thread_Priority.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Multithreading\Thread_Priority\obj\Debug\net6.0\Thread_Priority.AssemblyInfoInputs.cache
+E:\C#\Multithreading\Thread_Priority\obj\Debug\net6.0\Thread_Priority.AssemblyInfo.cs
+E:\C#\Multithreading\Thread_Priority\obj\Debug\net6.0\Thread_Priority.csproj.CoreCompileInputs.cache
+E:\C#\Multithreading\Thread_Priority\obj\Debug\net6.0\Thread_Priority.sourcelink.json
+E:\C#\Multithreading\Thread_Priority\obj\Debug\net6.0\Thread_Priority.dll
+E:\C#\Multithreading\Thread_Priority\obj\Debug\net6.0\refint\Thread_Priority.dll
+E:\C#\Multithreading\Thread_Priority\obj\Debug\net6.0\Thread_Priority.pdb
+E:\C#\Multithreading\Thread_Priority\obj\Debug\net6.0\Thread_Priority.genruntimeconfig.cache
+E:\C#\Multithreading\Thread_Priority\obj\Debug\net6.0\ref\Thread_Priority.dll

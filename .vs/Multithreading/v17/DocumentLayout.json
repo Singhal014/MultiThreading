@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\C#\\Multithreading\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD4DCC2B-F04B-422E-BC57-B052CD1B6979}|Thread_Priority\\Thread_Priority.csproj|e:\\c#\\multithreading\\thread_priority\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4DCC2B-F04B-422E-BC57-B052CD1B6979}|Thread_Priority\\Thread_Priority.csproj|solutionrelative:thread_priority\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74EDC53-2E8B-4478-8E72-9A0B33DBBB4A}|Thread_Lock\\Thread_Lock.csproj|e:\\c#\\multithreading\\thread_lock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74EDC53-2E8B-4478-8E72-9A0B33DBBB4A}|Thread_Lock\\Thread_Lock.csproj|solutionrelative:thread_lock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96E44EF5-F9BB-4792-81AC-AB54E1ABDEA9}|Multithreading\\Multithreading.csproj|e:\\c#\\multithreading\\multithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96E44EF5-F9BB-4792-81AC-AB54E1ABDEA9}|Multithreading\\Multithreading.csproj|solutionrelative:multithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{8E240A3C-9246-4AC7-94BF-45144EFD2A89}|Join\\Join.csproj|solutionrelative:join\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E7F8692-4E7A-44FC-BA7B-CBAC64B2E073}|ThreadStart\\ThreadStart.csproj|e:\\c#\\multithreading\\threadstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E7F8692-4E7A-44FC-BA7B-CBAC64B2E073}|ThreadStart\\ThreadStart.csproj|solutionrelative:threadstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF5C4F5A-C02E-47D4-A9F6-85965F7C9D39}|MultiThread\\MultiThread.csproj|e:\\c#\\multithreading\\multithread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF5C4F5A-C02E-47D4-A9F6-85965F7C9D39}|MultiThread\\MultiThread.csproj|solutionrelative:multithread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7F8692-4E7A-44FC-BA7B-CBAC64B2E073}|ThreadStart\\Thread_Start.csproj|e:\\c#\\multithreading\\threadstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7F8692-4E7A-44FC-BA7B-CBAC64B2E073}|ThreadStart\\Thread_Start.csproj|solutionrelative:threadstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +46,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Multithreading\\Thread_Priority\\Program.cs",
+              "RelativeDocumentMoniker": "Thread_Priority\\Program.cs",
+              "ToolTip": "E:\\C#\\Multithreading\\Thread_Priority\\Program.cs",
+              "RelativeToolTip": "Thread_Priority\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:18:03.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Multithreading\\Thread_Lock\\Program.cs",
+              "RelativeDocumentMoniker": "Thread_Lock\\Program.cs",
+              "ToolTip": "E:\\C#\\Multithreading\\Thread_Lock\\Program.cs",
+              "RelativeToolTip": "Thread_Lock\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:01:38.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C#\\Multithreading\\Join\\Program.cs",
               "RelativeDocumentMoniker": "Join\\Program.cs",
@@ -46,12 +80,11 @@
               "RelativeToolTip": "Join\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowCIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T09:17:59.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T09:17:59.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C#\\Multithreading\\ThreadStart\\Program.cs",
               "RelativeDocumentMoniker": "ThreadStart\\Program.cs",
@@ -59,12 +92,11 @@
               "RelativeToolTip": "ThreadStart\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T08:24:39.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T08:24:39.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C#\\Multithreading\\MultiThread\\Program.cs",
               "RelativeDocumentMoniker": "MultiThread\\Program.cs",
@@ -72,12 +104,11 @@
               "RelativeToolTip": "MultiThread\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAIwB4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T07:53:45.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T07:53:45.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C#\\Multithreading\\Multithreading\\Program.cs",
               "RelativeDocumentMoniker": "Multithreading\\Program.cs",

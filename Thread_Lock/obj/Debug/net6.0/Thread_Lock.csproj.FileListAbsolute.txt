@@ -1,0 +1,15 @@
+E:\C#\Multithreading\Thread_Lock\bin\Debug\net6.0\Thread_Lock.exe
+E:\C#\Multithreading\Thread_Lock\bin\Debug\net6.0\Thread_Lock.deps.json
+E:\C#\Multithreading\Thread_Lock\bin\Debug\net6.0\Thread_Lock.runtimeconfig.json
+E:\C#\Multithreading\Thread_Lock\bin\Debug\net6.0\Thread_Lock.dll
+E:\C#\Multithreading\Thread_Lock\bin\Debug\net6.0\Thread_Lock.pdb
+E:\C#\Multithreading\Thread_Lock\obj\Debug\net6.0\Thread_Lock.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Multithreading\Thread_Lock\obj\Debug\net6.0\Thread_Lock.AssemblyInfoInputs.cache
+E:\C#\Multithreading\Thread_Lock\obj\Debug\net6.0\Thread_Lock.AssemblyInfo.cs
+E:\C#\Multithreading\Thread_Lock\obj\Debug\net6.0\Thread_Lock.csproj.CoreCompileInputs.cache
+E:\C#\Multithreading\Thread_Lock\obj\Debug\net6.0\Thread_Lock.sourcelink.json
+E:\C#\Multithreading\Thread_Lock\obj\Debug\net6.0\Thread_Lock.dll
+E:\C#\Multithreading\Thread_Lock\obj\Debug\net6.0\refint\Thread_Lock.dll
+E:\C#\Multithreading\Thread_Lock\obj\Debug\net6.0\Thread_Lock.pdb
+E:\C#\Multithreading\Thread_Lock\obj\Debug\net6.0\Thread_Lock.genruntimeconfig.cache
+E:\C#\Multithreading\Thread_Lock\obj\Debug\net6.0\ref\Thread_Lock.dll
